@@ -278,7 +278,11 @@
 				>
 			</File>
 			<File
-				RelativePath=".\src\PyramidalSimulation.cpp"
+				RelativePath=".\src\owSignalSimulator.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\src\owNeuronSimulator.cpp"
 				>
 			</File>
 			<File
@@ -338,7 +342,15 @@
 				>
 			</File>
 			<File
-				RelativePath=".\inc\PyramidalSimulation.h"
+				RelativePath=".\inc\owSignalSimulator.h"
+				>
+			</File>
+			<File
+				RelativePath=".\inc\owINeuronSimulator.h"
+				>
+			</File>
+			<File
+				RelativePath=".\inc\owNeuronSimulator.h"
 				>
 			</File>
 			<File
